@@ -1,0 +1,16 @@
+.flashcard {
+    background-color: rgb(212, 102, 102);
+    text-align: center;
+    display: flex;
+    flex-direction:column;
+    width: 200px;
+    padding: 12px 18px;
+    border-radius: 21px;
+    margin: 18px;
+}
+
+button {
+    border: none;
+    color: rgb(201, 95, 95);
+    font-family: Impact;
+}
